@@ -112,7 +112,7 @@ body {
 
 .title {
     font-size: 24px;
-    color: #000000;
+    color: #db1616;
     font-weight: 400;
     margin-bottom: 30px;
 }
@@ -164,7 +164,7 @@ input {
     border-radius: 5px;
     padding: 0 20px;
     font-size: 16px;
-    color: #666666;
+    color: #267ad4;
     -webkit-transition: all 0.4s ease;
     -o-transition: all 0.4s ease;
     -moz-transition: all 0.4s ease;
@@ -173,18 +173,18 @@ input {
 
 .input-style::-webkit-input-placeholder {
     /* WebKit, Blink, Edge */
-    color: #666666;
+    color: #267ad4;
 }
 
 .input-style::-moz-placeholder {
     /* Mozilla Firefox 19+ */
-    color: #666666;
+    color: #267ad4;
     opacity: 1;
 }
 
 .input-style:-ms-input-placeholder {
     /* Internet Explorer 10-11 */
-    color: #666666;
+    color: #267ad4;
 }
 
 /* Chrome, Safari, Edge, Opera */
@@ -222,7 +222,7 @@ textarea {
     border-radius: 5px;
     padding: 0 20px;
     font-size: 16px;
-    color: #666666;
+    color: #267ad4;
     -webkit-transition: all 0.4s ease;
     -o-transition: all 0.4s ease;
     -moz-transition: all 0.4s ease;
@@ -237,13 +237,13 @@ textarea {
 
 .textarea-style::-moz-placeholder {
     /* Mozilla Firefox 19+ */
-    color: #666666;
+    color: #267ad4;
     opacity: 1;
 }
 
 .textarea-style:-ms-input-placeholder {
     /* Internet Explorer 10-11 */
-    color: #666666;
+    color: #267ad4;
 }
 
 .label {
